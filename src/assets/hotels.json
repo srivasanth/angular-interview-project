@@ -1,0 +1,164 @@
+ [
+        {
+            "id": "ffac6da1-9e74-4678-8081-e0085533ab50",
+            "name": "Aurangabad",
+            "info": "Aurangabad, Bihar, India, IN",
+            "is_city": true
+        },
+        {
+            "id": "d03bea9c-4027-4c17-85ce-a64c0c005e87",
+            "name": "Aurangabad",
+            "info": "Aurangabad, Maharashtra, India, IN",
+            "is_city": true
+        },
+        {
+            "id": "39235011-f1ef-42eb-9f80-29e0e741f513",
+            "name": "Aura",
+            "info": "31, Arakashan Road Paharganj New Delhi 110055  Arakashan Road",
+            "is_city": false
+        },
+        {
+            "id": "0885d66e-bb04-4de5-b8b2-48a4c248ee24",
+            "name": "Aurangabad Gymkhana Club",
+            "info": "Airport Road Mukundwadi Circle Aurangabad 431001  Airport Road",
+            "is_city": false
+        },
+        {
+            "id": "3bff4adf-f49d-4c39-94d1-d0a0e17938a2",
+            "name": "Aura Executive Homes-Worli",
+            "info": "Shukhda Opp RTO Off Worli Sea Face Mumbai",
+            "is_city": false
+        },
+        {
+            "id": "75b1c564-d4bd-4ca4-8495-d109e3715b05",
+            "name": "Aura Executive Malad",
+            "info": "Malad Mumbai",
+            "is_city": false
+        },
+        {
+            "id": "79781f6e-3e98-4c79-b1eb-83de1499de87",
+            "name": "Aura Vaseela",
+            "info": "Village Nadiali Dharamgarh Post Office Mohali Tehsil Mohali",
+            "is_city": false
+        },
+        {
+            "id": "9f0f4866-86d7-4ec9-9f5b-8ddcf22702f0",
+            "name": "Aura Hotel",
+            "info": "37/2 Shankar Sheth Road Swargate Pune 411037 Maharashtra Shankar Sheth Road",
+            "is_city": false
+        },
+        {
+            "id": "a0df37b4-d2a8-40e2-92ca-8c542a36f56d",
+            "name": "Aura de Asia",
+            "info": "1/12 West Patel Nagar Near Metro Station Patel Nagar Opposite Metro Pillar 201 New Delhi 110008 West Patel Nagar",
+            "is_city": false
+        },
+        {
+            "id": "22a07c9a-a219-497f-8843-3da7ab7fea7b",
+            "name": "OYO Rooms Naka Hindola Chauraha",
+            "info": "Naka Hindola Road Aishbagh chauraha Lucknow 226004  Naka Hindola Road",
+            "is_city": false
+        },
+        {
+            "id": "48d02c37-eb26-4352-9cc4-4b533e897e7c",
+            "name": "VITS Aurangabad",
+            "info": "Railway Station Road Aurangabad Maharastra 431005  Railway Station Road",
+            "is_city": false
+        },
+        {
+            "id": "e0adacff-9a9b-47bf-a2c4-8209e0a7655d",
+            "name": "OYO Rooms Revolving Restaurant Mall Road",
+            "info": "Near Jawahar Aquarium Near The Revolving Restaurant Mall Road Mussoorie 248179 Mall Road",
+            "is_city": false
+        },
+        {
+            "id": "ef499008-fbe0-4b97-ab5f-4fbdb12a85f1",
+            "name": "Lemon Tree Aurangabad",
+            "info": "R 7/2, Airport Road Aurangabad 431210   Airport Road",
+            "is_city": false
+        },
+        {
+            "id": "06bab321-a107-4866-8002-f0559f7e9aff",
+            "name": "Jyoti Hotel & Restaurant",
+            "info": "Workshop Road E5 Industrual Area Yamuna Nagar 135001 Haryana Workshop Road",
+            "is_city": false
+        },
+        {
+            "id": "0c38be0d-369b-49f5-80d5-f0569b59e30e",
+            "name": "Amarjee’s Hotel & Restaurant",
+            "info": "Shimla-Manali NH-88 Durgaghat (Shalaghat) Solan Shimla - Manali NH-88",
+            "is_city": false
+        },
+        {
+            "id": "0ec2bf55-8bd7-4a69-a208-9c76a4bcf29c",
+            "name": "Hotel De Aura",
+            "info": "L-10A NH-8 Ganaga Tower Mahipalpur Extension Near IGI Airport NH-8",
+            "is_city": false
+        },
+        {
+            "id": "120af1e2-26ef-417d-a2eb-c830819f4eac",
+            "name": "Shivam Guest House & Restaurant",
+            "info": "Makrana Mohalla Beyond Clock Tower Jodhpur 342001 Rajasthan Makrana Mohalla",
+            "is_city": false
+        },
+        {
+            "id": "208ec190-c404-47d0-ac7a-6a4f8bdb26be",
+            "name": "Shamyana Lodge and Restaurant",
+            "info": "Boulevard Road Srinagar Kashmir Jammu and Kashmir Boulevard Road",
+            "is_city": false
+        },
+        {
+            "id": "26394ca7-0786-47f2-b91a-444f474a6f65",
+            "name": "Gaurav Resort",
+            "info": "TRC Chaukori 262531 District Pithoragarh Uttarakhand",
+            "is_city": false
+        },
+        {
+            "id": "2c0fe472-8778-41c6-a1f5-f99d6fa356db",
+            "name": "OYO Rooms Mumfordganj Abkari Chauraha",
+            "info": "337/261 Near Excise Office Mumfordganj Allahabad 211002",
+            "is_city": false
+        },
+        {
+            "id": "2f6de4ed-8f26-4279-816c-957400d11eeb",
+            "name": "OYO Rooms CTI Chauraha",
+            "info": "Plot No. 124/v/1B Govind Nagar Kanpur 200806",
+            "is_city": false
+        },
+        {
+            "id": "34c1fbc0-f008-4adb-ab88-cc330f818cb7",
+            "name": "Aaa Hotel & Restaurant",
+            "info": "National Highway 22 Sanwara kasauli 173209 Himachal Pradesh National Highway 22",
+            "is_city": false
+        },
+        {
+            "id": "354a1ae2-485c-4d83-af7e-d05267c37f73",
+            "name": "Hotel Saurabh Candy By Peppermint",
+            "info": "Nainital Road, Civil lines Beside Bombay Hospital Haldwani 263139 Uttarakhand Nainital Road, Civil lines",
+            "is_city": false
+        },
+        {
+            "id": "38952643-f056-4837-9f3a-f5d23009ad3c",
+            "name": "Hotel Shivalik and Restaurant",
+            "info": "Near Gurudwawa Sahib Manikarn 175105 District Kullu Himachal Pardesh",
+            "is_city": false
+        },
+        {
+            "id": "3bd6adc1-23f9-40db-be5c-5b85e32f451b",
+            "name": "Duke Hotel & Restaurant",
+            "info": "8 Netaji Subhash Marg Darya Ganj New Delhi 110002  Netaji Subhash Marg",
+            "is_city": false
+        },
+        {
+            "id": "4a25eed6-b12d-48ac-b179-7a1d75298dfa",
+            "name": "OYO Rooms Bada Chauraha Civil Lines",
+            "info": "Plot 16/62 Shri Krishna Tower Near Income Tax Office Civil Lines",
+            "is_city": false
+        },
+        {
+            "id": "5180b5bf-0314-4d14-8eff-0d55cac43863",
+            "name": "Mayur Hotel & Restaurant",
+            "info": "Gandhi Chowk Lansdowne 246174 District Pauri Garhwal Uttarakhand",
+            "is_city": false
+        }
+    ]

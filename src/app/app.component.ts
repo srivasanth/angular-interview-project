@@ -1,3 +1,4 @@
+import { HotelsService } from './service/hotels.service';
 import { Component } from '@angular/core';
 
 @Component({

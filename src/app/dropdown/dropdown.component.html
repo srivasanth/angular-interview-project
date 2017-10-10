@@ -1,0 +1,22 @@
+<div class="container">
+  
+  <div>
+      <input 
+      #query
+      (keyup)="filter(query.value)" 
+      type="text"
+      class="form-control"
+      place="search....">
+  </div>
+  
+
+
+    <select class="form-control" size="10">
+        <option >hotels</option>
+        <option *ngFor="let hotel of filteredHotels"> {{hotel.name}}</option>
+      </select>
+
+  
+</div>
+
+
